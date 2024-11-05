@@ -13,7 +13,7 @@ This is a simple news summarizer script that scrapes news articles from an RSS f
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/news-summarizer.git
+   git clone https://github.com/Hajiyevrehman/news-summarizer.git
    cd news-summarizer
    ```
 
